@@ -1,7 +1,10 @@
-<h1 align="middle">
+<h4 align="middle">
 
 ![Github Banner](/github-header-image.png)
-</h1>
+</h4>
+
+<h2 align="middle">About Me
+</h2>
 
 <div align="center">
 <font font-family: sans-serif;
