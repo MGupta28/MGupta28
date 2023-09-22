@@ -1,6 +1,6 @@
 <h4 align="middle">
 
-![Github Banner](/github-header-image.png)
+![Github Banner](github-header-image.png)
 </h4>
 
 <h2 align="middle">About Me
