@@ -1,6 +1,7 @@
 <h4 align="middle">
 
 ![Github Banner](/github-header-image.png)
+
 </h4>
 
 <h2 align="middle">About Me
@@ -38,14 +39,12 @@ Please come by and say hello! Connect with me on GitHub if you want to learn mor
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-
-<h3 align="Middle">
+</h3>
 
 <h2 align="Middle">My Github Trophies:</h2>
 <h3 align="Middle">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=MGupta28&theme=dracula&column=-1&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophies](https://github-profile-trophy.vercel.app/?username=MGupta28&theme=dracula&column=-1&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 </h3>
 
